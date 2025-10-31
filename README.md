@@ -10,10 +10,6 @@ This script allows you to **view, edit, and save MLRS parameters** directly from
 
 - 📡 **Direct MLRS integration** via CRSF (Crossfire) telemetry.
 - 🧭 **Automatic discovery** of device parameters and metadata.
-- 🧩 Supports all standard MLRS parameter types:
-  - Numeric (`INT8/16`, `UINT8/16`)
-  - Lists / Enum selections
-  - Fixed strings (`STR6`)
 - 💾 **On-radio save** — write changes directly to flash.
 - 🔁 **Smart persistent progress loader** for seamless UX (no flicker between save/reboot/reload).
 - ⚙️ **Auto-reconnect** after module reboot or power cycle.
