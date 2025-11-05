@@ -1,6 +1,6 @@
 # MLRS mBridge-over-CRSF Tool for Ethos
 
-A Lua utility for **Ethos transmitters** that provides a graphical configuration interface for **MLRS (Modular Long Range System)** devices over the **CRSF protocol** using the *mBridge* layer.
+A Lua utility for **Ethos transmitters** that provides a graphical configuration interface for **MLRS (Malink Long Range System)** devices over the **CRSF protocol** using the *mBridge* layer.
 
 This script allows you to **view, edit, and save MLRS parameters** directly from your Ethos radio without connecting to a computer or using the MLRS web configurator.
 
